@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "prettier"
+  ],
+  "globals": {
+    "require": true,
+    "console": true
+  },
+  "rules": {
+    "eqeqeq": [
+      "error",
+      "always"
+    ]
+  }
+}

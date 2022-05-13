@@ -1,0 +1,41 @@
+{
+  "name": "template.npm",
+  "version": "0.0.0-SNAPSHOT",
+  "description": "template project for easy npm projects",
+  "keywords": [
+    "template",
+    "npm",
+    "javascript"
+  ],
+  "homepage": "",
+  "bugs": {
+    "url": "",
+    "email": ""
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Devlin Junker",
+    "email": "devlin.junker@gmail.com",
+    "url": "https://dev-junk.com"
+  },
+  "funding": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devlinjunker/template.npm.git"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "scripts": {
+    "test": "echo 'test'",
+    "lint": "npx eslint ./ --fix",
+    "format": "npx pretty-quick --staged9"
+  },
+  "config": {},
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.6.2",
+    "pretty-quick": "^3.1.3"
+  }
+}

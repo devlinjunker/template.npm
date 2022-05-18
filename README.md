@@ -40,6 +40,10 @@ it(
   - Basta?
   - Simeon?
 - [ ] Documentation? EsDoc?
+  - create draw.io diagram?
+    - https://github.com/pahen/madge
+    - https://tomd.xyz/how-i-use-drawio/
+    - https://drawio-app.com/automatically-create-draw-io-diagrams-from-csv-files/ 
 - [ ] benchmark.js
 - [ ] Packages?
 - [ ] Doctor Script?
